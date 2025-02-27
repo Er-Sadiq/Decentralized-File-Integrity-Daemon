@@ -46,9 +46,6 @@ Install dependencies:
 ````bash
 go mod download
 Deploy the smart contract:
-
-bash
-Copy
 cd contracts
 npm install
 npx hardhat deploy --network arbitrum
