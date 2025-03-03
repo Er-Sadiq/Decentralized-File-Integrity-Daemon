@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import { useState, } from "react";
-import Dashboard from "./components/dashboard/Dashboard";
+import Dashboard from "./pages/dashboard/Dashboard";
 import Home from "./pages/home/Home";
 
 
